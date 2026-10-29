@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" height="344" version="1.1" viewBox="0,0,740,344" width="740">
+  <defs/>
+  <rect fill="#ffffff" height="344" width="740" x="0" y="0"/>
+  <polyline fill="none" points="130.0,76.0 322.0,76.0" stroke="#8aa4c4" stroke-linejoin="round" stroke-width="2"/>
+  <polyline fill="none" points="394.0,76.0 586.0,76.0" stroke="#8aa4c4" stroke-linejoin="round" stroke-width="2"/>
+  <polyline fill="none" points="358.0,100.0 358.0,268.0" stroke="#8aa4c4" stroke-linejoin="round" stroke-width="2"/>
+  <polyline fill="none" points="310.0,268.0 118.0,268.0" stroke="#8aa4c4" stroke-linejoin="round" stroke-width="2"/>
+  <polyline fill="none" points="118.0,268.0 118.0,100.0" stroke="#8aa4c4" stroke-linejoin="round" stroke-width="2"/>
+  <rect fill="#f4f7fb" height="48.0" rx="6" ry="6" stroke="#2b6cb0" stroke-width="2" width="84.0" x="46.0" y="52.0"/>
+  <text dominant-baseline="central" fill="#111111" font-size="20" x="64.0" y="76.0">Idea</text>
+  <rect fill="#f4f7fb" height="48.0" rx="6" ry="6" stroke="#2b6cb0" stroke-width="2" width="84.0" x="310.0" y="52.0"/>
+  <text dominant-baseline="central" fill="#111111" font-size="20" x="328.0" y="76.0">Plan</text>
+  <rect fill="#f4f7fb" height="48.0" rx="6" ry="6" stroke="#2b6cb0" stroke-width="2" width="120.0" x="574.0" y="52.0"/>
+  <text dominant-baseline="central" fill="#111111" font-size="20" x="592.0" y="76.0">Ship 🚀</text>
+  <rect fill="#f4f7fb" height="48.0" rx="6" ry="6" stroke="#2b6cb0" stroke-width="2" width="96.0" x="310.0" y="244.0"/>
+  <text dominant-baseline="central" fill="#111111" font-size="20" x="328.0" y="268.0">Learn</text>
+</svg>
